@@ -2,6 +2,9 @@
 Unfinished Minecraft clone in C++
 
 Made this during the summer, but didn't really finish it. Am putting it on here now if anyone wants to look at my code and maybe learn something from it.
+
+![voxel-craft](https://user-images.githubusercontent.com/68446560/100005906-aff03a00-2d97-11eb-8ffb-a5ce81d853a1.png)
+
 #
 Third-Party Libraries:
 - GLFW (https://github.com/glfw/glfw)
