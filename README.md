@@ -5,7 +5,6 @@ Made this during the summer, but didn't really finish it. Am putting it on here 
 
 ![voxel-craft](https://user-images.githubusercontent.com/68446560/100005906-aff03a00-2d97-11eb-8ffb-a5ce81d853a1.png)
 
-#
 Third-Party Libraries:
 - GLFW (https://github.com/glfw/glfw)
 - glad (https://github.com/Dav1dde/glad)
