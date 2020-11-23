@@ -2,9 +2,7 @@
 Unfinished Minecraft clone in C++
 
 Made this during the summer, but didn't really finish it. Am putting it on here now if anyone wants to look at my code and maybe learn something from it.
-
 #
-
 Third-Party Libraries:
 - GLFW (https://github.com/glfw/glfw)
 - glad (https://github.com/Dav1dde/glad)
