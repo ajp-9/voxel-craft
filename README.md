@@ -1,5 +1,5 @@
 # Voxel-Craft
-Unfinished Minecraft clone in C++
+Unfinished Minecraft clone in C++ with OpenGL.
 
 Made this during the summer, but didn't really finish it. Am putting it on here now if anyone wants to look at my code and maybe learn something from it.
 
